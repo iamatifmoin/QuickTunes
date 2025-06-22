@@ -29,11 +29,10 @@ const AppContent: React.FC = () => {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent mb-4">
-            Wubble QuickTune
+            QuickTunes
           </h1>
           <p className="text-xl text-gray-700 dark:text-gray-300 max-w-2xl mx-auto">
-            AI-powered music preview generator. Choose your mood and genre, then
-            let the magic happen!
+            AI-powered music preview generator.
           </p>
         </div>
 
